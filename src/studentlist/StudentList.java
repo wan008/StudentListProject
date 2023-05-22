@@ -6,7 +6,7 @@ public class StudentList {
         // TODO code application logic here
          Student s1 = new Student("kim", "abc");
         
-        Student[] studentList = new Student[3];
+        Student[] studentList = new Student[5];
         
         studentList[0] = s1;
         studentList[1] = new Student("Ron", "def");
