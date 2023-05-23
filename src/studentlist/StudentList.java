@@ -6,6 +6,7 @@ public class StudentList {
         // TODO code application logic here
          Student s1 = new Student("kim", "abc");
         
+        // this has been edited on github.com to show fetch + merge
         Student[] studentList = new Student[3];
         
         studentList[0] = s1;
