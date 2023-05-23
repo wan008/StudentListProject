@@ -12,6 +12,7 @@ public class StudentList {
         studentList[1] = new Student("Ron", "def");
         studentList[2] = new Student("John", "id003");
         
+        System.out.println("Test");
         for (int i=0;i < studentList.length; i++ ){
             System.out.println(studentList[i].getsName());
         }
